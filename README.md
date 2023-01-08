@@ -1,7 +1,7 @@
 # Trilha JS Developer - Pokedex
 
 ## estrutura do projeto
-Pastas: ASSETS: html, css, javascript
+
 
 ### Html
 *normalize*: padronizção de estilos do css
