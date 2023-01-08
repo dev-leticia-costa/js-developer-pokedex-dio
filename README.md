@@ -20,6 +20,6 @@ href="https://fonts.googleapis.com"
 *Mobile first*
 
 ### Javascript
-*pokemon-model:*  classe pokemon
-*poke-api:* obtendo dados dos pokemons 
+*pokemon-model:*  classe pokemon <br>
+*poke-api:* obtendo dados dos pokemons <br>
 *main:* convertendo pokemons para a lista
