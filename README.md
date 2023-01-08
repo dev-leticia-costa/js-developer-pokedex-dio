@@ -6,7 +6,7 @@ Pastas: ASSETS: html, css, javascript
 ### Html
 *normalize*: padronizção de estilos do css
 
- ---https://cdnjs.com/libraries/normalize
+https://cdnjs.com/libraries/normalize
 
 *adicionar css*: link: css
 *adicionar javascript*
